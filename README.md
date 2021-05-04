@@ -1,2 +1,3 @@
-# before-they-are-hanged
-A D&amp;D 5e Campaign
+# Before they are hanged
+A Dungeons & Dragons 5e Campaign
+We should forgive our enemies, but not before they are hanged.
