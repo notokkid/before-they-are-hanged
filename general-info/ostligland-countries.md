@@ -38,3 +38,5 @@ Alavus is ruled by the King in the North and his Jarls, functioning mostly as hi
 For the past 30 years, Alavus has been a protectorate of the Empire, after the latter's rather botched attempt at conquest. It is not surprising that Alavus has chosen to come under the banner of King Graur of Ostenso.
 
 Outsiders often consider the Northmen barbarians and savages, particularly in The Empire. They speak a Northern version of the Common Language, barely comprehensible to those who speak Common. The Northmen are a clan-based warrior society, with a history of inter-clan warfare, heavy with bloody feuds, and vengeances.
+
+A big part of society in Alavus are so called Named Men. Those warriors who have earned great respect in battle. Most earn names such as Bjørn Ironhead (Got his name for his famous deadly headbutts), Bonebreaker Gorm (Known for his large Warhammer), Halfur the Impaler (self explanatory) and so on.
