@@ -1,7 +1,8 @@
 # Ostligland Countries
 
 # Astorian Empire
-For more than a thousand years, Castleton has been the City at the Center of the World. A massive metropolis, and the crown jewel of the Astorian Empire.
+
+For more than a thousand years, Castleton has been the City at the Center of the World. A massive metropolis, and the crown jewel of the Astorian Empire. The first High King and founder of The Empire was Albinus the Great, many years ago. Albinus was the ruler of one of Midlands many petty kingdoms, often at war with one another. In time, the Empire expanded and matured to what it is today. 
 
 - Geography
 
@@ -15,5 +16,25 @@ There are no property taxes, although acces to roads, sanitation and other publi
 
 - Government
 
-Astoria is ruled by three executive powers. The High King, as well as the open and the closed council. Although the High King technically possesses vast powers, in reality the Astorian Empire is governed mostly by the Closed Council with only brief interactions with the King himself. The Closed council is composed of twelve select members. Three Lords of Law, three Lords of War, three Lords of Money and three Lords of the King's Household.
-The vast powers of the King and the Closed Council are held in check by the Open Council, a regular assembly of the realm's noblemen.
+Astoria is ruled by three executive powers. The High King, as well as the Closed Council, and the House of Nobles. Although the High King technically possesses vast powers, in reality the Astorian Empire is governed mostly by the Closed Council with only brief interactions with the King himself. The Closed council is composed of several select members. A Lord of Law, A Lords of War, A Lord of Money and A Lords of the King's Household.
+The vast powers of the King and the Closed Council are held in check by the House of Nobles, a regular assembly of the realm's noblemen.
+
+# Alavus Protectorate
+
+The Alavus Protectorate is the northern most region of Ostligland. The Northmen who live there are a clan-based warrior society.
+Grima Jomsborg was a legendary hero and great war-leader in Alavus. He united the Northmen clans, seemingly through diplomacy (blackmail, duress, deceit), in order to prevent The Astorian Empire from extending its influence into The North. Grima's Chair is now considered the throne of the King in the North. In more recent years, Alavus has become much divided as multiple Jarls struggle for the throne.
+
+- Geography
+
+The region is heavily forested with pine-covered hills, and snow-capped mountains, in particular the chain of mountains called the High Places. Trondheim itself is perfectly situated at the merging spot of several rivers providing easy transport.
+
+- Economy
+
+The economy of Alavus is entirely dependent on the Astorian Empire. Most people live off the land, relying on small farms and such to bring food to the table. Those that cannot grow or trade settle for stealing and looting.
+
+- Government
+
+Alavus is ruled by the King in the North and his Jarls, functioning mostly as his trusted advisors.
+For the past 30 years, Alavus has been a protectorate of the Empire, after the latter's rather botched attempt at conquest. It is not surprising that Alavus has chosen to come under the banner of King Graur of Ostenso.
+
+Outsiders often consider the Northmen barbarians and savages, particularly in The Empire. They speak a Northern version of the Common Language, barely comprehensible to those who speak Common. The Northmen are a clan-based warrior society, with a history of inter-clan warfare, heavy with bloody feuds, and vengeances.
