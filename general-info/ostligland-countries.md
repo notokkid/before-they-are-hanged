@@ -40,3 +40,23 @@ For the past 30 years, Alavus has been a protectorate of the Empire, after the l
 Outsiders often consider the Northmen barbarians and savages, particularly in The Empire. They speak a Northern version of the Common Language, barely comprehensible to those who speak Common. The Northmen are a clan-based warrior society, with a history of inter-clan warfare, heavy with bloody feuds, and vengeances.
 
 A big part of society in Alavus are so called Named Men. Those warriors who have earned great respect in battle. Most earn names such as Bjørn Ironhead (Got his name for his famous deadly headbutts), Bonebreaker Gorm (Known for his large Warhammer), Halfur the Impaler (self explanatory) and so on.
+
+# Strix
+
+Infernal Strix remains one of the most powerful nations militarily in Ostligland. Nevertheless, as important as the nation may be today, it pales in comparison to its former Imperial glories. Today, in the eyes of most external observers in other parts of Ostligland, Strix suffers from extreme diabolism and a tyranny which prevent it from truly achieving its full potential. Internal observers, including the new nobility of Strix, firmly believe that Asmodeus and Hell serve Strix and assist in maintaining the power necessary for Strix to assume its rightful role among the leading nations of Ostligland.
+
+- Geography
+Strix covers a piece of the Northern parts of Ostligland. Divided into six regions or archduchies ruled over by Noble Houses, the power of Strix is split between Hellcoast, Ravounel, Menador, The Heartlands, Sirmium and Longmarch.
+Nearly 30% of Strix is mountanous, with several valleys settled between the jagged mountains. Many elements of the Strix territory are of volcanic origin. Summers are warm and humid, and its winters are chilly, rainy and foggy.
+
+- Economy
+
+A lot of the wealth owned by Strix comes from its own natural resources. The mountains are full of precious metals and the plains and valleys are more than capable of sustaining the food necessities of the people of Strix. On top of all this, Strix has also traded with the people of the Vastligland continent, being a strong player in the slave trade market. 
+
+- Government 
+His Majesty King Harod rules as absolute monarch in his nation. His word carries the full weight of law, and is as inescapable as any devil's contract.
+The rest of the power in Strix rests in the mighty graps of its noble houses that have existed for centuries. Most of the oldest houses survived the civil war that ravaged the country a century ago, although those who aligned themselves with the diabolists early in the war have claimed the greatest prestige and wealth. 
+Strix nobility are arranged in a strict hierarchy of three broad categories (dukes, counts, and barons), each with their own subcategories, for a sum of nine ranks modeled after the nine levels of Hell; the King and his family are above this order.
+The King maintains control of the nation's complex bureaucracy of titled nobles through fear and the hope of earning the King's favor.
+
+
