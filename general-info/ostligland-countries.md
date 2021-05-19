@@ -54,6 +54,7 @@ Nearly 30% of Strix is mountanous, with several valleys settled between the jagg
 A lot of the wealth owned by Strix comes from its own natural resources. The mountains are full of precious metals and the plains and valleys are more than capable of sustaining the food necessities of the people of Strix. On top of all this, Strix has also traded with the people of the Vastligland continent, being a strong player in the slave trade market. 
 
 - Government 
+
 His Majesty King Harod rules as absolute monarch in his nation. His word carries the full weight of law, and is as inescapable as any devil's contract.
 The rest of the power in Strix rests in the mighty graps of its noble houses that have existed for centuries. Most of the oldest houses survived the civil war that ravaged the country a century ago, although those who aligned themselves with the diabolists early in the war have claimed the greatest prestige and wealth. 
 Strix nobility are arranged in a strict hierarchy of three broad categories (dukes, counts, and barons), each with their own subcategories, for a sum of nine ranks modeled after the nine levels of Hell; the King and his family are above this order.
