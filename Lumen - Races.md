@@ -23,3 +23,9 @@ Often fierce and savage, sometimes noble and resolute, half-orcs can manifest th
 # Tiefling
 
 Simultaneously more and less than mortal, tieflings are the offspring of humans and fiends. With otherworldly blood and traits to match, tieflings are often shunned and despised out of reactionary fear. Most tieflings never know their fiendish sire, as the coupling that produced their curse occurred generations earlier. The taint is long-lasting and persistent, often manifesting at birth or sometimes later in life, as a powerful, though often unwanted, boon.
+
+# Satyr
+
+Satyrs embrace life, seeking fun and adventure in a world where many are plagued with seriousness. They live free of strict rulesets, eschewing lawful order for freedom.
+Satyrs are known for their revels, which is the celebration of the small things in life. Most humans associate these revels with wild debauchery, but the truth is more complicated. For a Satyr, a revel involves approaching the simple pleasure of life and being present in the moment. They are driven by intuition, following unpredictable paths.
+
